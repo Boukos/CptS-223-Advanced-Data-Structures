@@ -1,3 +1,0 @@
-add:10,8,6,4,2
-display_list
-display_tree
